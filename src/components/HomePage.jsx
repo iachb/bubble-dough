@@ -1,5 +1,5 @@
-import React from 'react';
-import './HomePage.css';
+import React from "react";
+import "./HomePage.css";
 
 const HomePage = () => {
   return (
@@ -13,6 +13,10 @@ const HomePage = () => {
         <h2>Today's Specials</h2>
         <div className="special-item">
           <h3>Special Dish 1</h3>
+          <img
+            src="https://www.allrecipes.com/thmb/imrP1HYi5pu7j1en1_TI-Kcnzt4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20513-classic-waffles-mfs-025-4x3-81c0f0ace44d480ca69dd5f2c949731a.jpg"
+            className="special-dish-img"
+          />
           <p>Description of the special dish. Lorem ipsum dolor sit amet...</p>
         </div>
         <div className="special-item">
@@ -24,8 +28,8 @@ const HomePage = () => {
       <section className="about-us">
         <h2>About Us</h2>
         <p>
-          Welcome to Our Restaurant, where we take pride in serving delicious and
-          high-quality meals. Our chefs use the finest ingredients to create
+          Welcome to Our Restaurant, where we take pride in serving delicious
+          and high-quality meals. Our chefs use the finest ingredients to create
           mouthwatering dishes that will leave you coming back for more.
         </p>
       </section>

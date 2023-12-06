@@ -28,3 +28,7 @@ nav {
     color: orange;
   }
   
+  .logo-img {
+    width: 100px; /* Adjust the width as needed */
+    height: auto; /* Maintain aspect ratio */
+  }

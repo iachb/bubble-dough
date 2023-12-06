@@ -25,5 +25,9 @@
     margin-top: 30px;
   }
   
-  /* Add any additional styling as needed */
+.special-dish-img{
+    width: 400px; /* Adjust the width as needed */
+    height: auto; /* Maintain aspect ratio */
+    border-radius: 20%;
+}
   
