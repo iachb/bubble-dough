@@ -1,0 +1,29 @@
+.home-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .hero {
+    text-align: center;
+    color: orange;
+  }
+  
+  .specials {
+    margin-top: 30px;
+  }
+  
+  .special-item {
+    border: 1px solid orange;
+    border-radius: 8px;
+    padding: 10px;
+    margin-bottom: 15px;
+  }
+  
+  .about-us,
+  .contact {
+    margin-top: 30px;
+  }
+  
+  /* Add any additional styling as needed */
+  

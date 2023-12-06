@@ -1,0 +1,30 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: white; /* Updated background color to white */
+    padding: 10px 20px;
+    color: orange; /* Updated text color to orange */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Optional: Add a subtle box shadow */
+  }
+  
+  .logo a {
+    color: orange;
+    text-decoration: none;
+    font-size: 1.5rem;
+  }
+  
+  .nav-links {
+    list-style: none;
+    display: flex;
+  }
+  
+  .nav-links li {
+    margin-right: 20px;
+  }
+  
+  .nav-links a {
+    text-decoration: none;
+    color: orange;
+  }
+  
